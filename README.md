@@ -1,1 +1,1 @@
-# practice-gh
+# gh-practice
